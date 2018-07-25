@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/manuelsavino/liri#readme",
   "dependencies": {
-    "dotenv": "^6.0.0"
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "requester": "^0.1.22",
+    "twitter": "^1.7.1"
   }
 }
